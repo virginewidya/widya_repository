@@ -2,3 +2,4 @@ widya_repository
 - mengerjakan tugas
 - melanjutkan laporan magang
 - melanjutkan proposal
+- seminar magang
